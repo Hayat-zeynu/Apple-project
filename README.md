@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# my-project
-# my-project
+# my first-project
+
 =======
-# Apple-project
->>>>>>> 5b4595845b3b5cded04599ebcaff2d168bb16069
+Re-bulding apple.com website
+
